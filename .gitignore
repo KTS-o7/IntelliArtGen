@@ -3,3 +3,6 @@ data
 generated
 results
 *.pth
+Scraper/datasetScraped
+Scraper/datasetBetterScraped
+models
